@@ -3,3 +3,4 @@ name:zhenghaili
 age:21
 gender:"women"
 hobby:"shopping"
+sport:running
