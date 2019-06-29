@@ -3,4 +3,8 @@ name:zhenghaili
 age:21
 gender:"women"
 hobby:"shopping"
+<<<<<<< HEAD
 sport:running1
+=======
+sport:running
+>>>>>>> feature1
